@@ -68,7 +68,7 @@
 | 8.25  |  [直播]  XLNet(2) + Chatbot |[课程资料](http://47.94.6.102/NLPCamp3/Lesson0825)||||
 | 9.1   |  [Review]  xlnet模型实战 |[课件代码](http://47.94.6.102/NLPCamp3/course-info/blob/master/%E8%AF%BE%E4%BB%B6/xlnet-master-20180901%20review%20session.zip)||||
 
-#### 课程录播和Review Session的课件链接:  https://pan.baidu.com/s/1BMXG4xY4MF3pdNZCfnPwlA 提取码: a8xr
+#### 课程录播和Review Session的课件链接:  https://pan.baidu.com/s/1BMXG4xY4MF3pdNZCfnPwlA 提取码: 
 
 
 ## 答疑时间安排
